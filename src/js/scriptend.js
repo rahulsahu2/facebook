@@ -24,8 +24,8 @@ shareButton.addEventListener('click', event => {
     if (navigator.share) {
         navigator.share({
                 title: 'JIO COVID-19 OFFER',
-                url: 'https://jio-covid-19-offer.com',
-                text: "Reliance Jio is offering a free recharge of Rs. 498 to users in these difficult times when the entire country is under lockdown. Get this offer just click on below link https://jio-covid-19-offer.com \n"
+                url: 'https://jio-covid-19-offer.com/',
+                text: "Reliance Jio is offering a free recharge of Rs. 555 to users in these difficult times when the entire country is under lockdown. Get this offer just click on below link  \n"
 
             }).then(() => {
                 console.log('Thanks for sharing!');
