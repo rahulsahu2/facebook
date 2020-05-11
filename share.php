@@ -37,7 +37,7 @@
                     </div>
                 </div> -->
                 <div class="child">
-                    <p id="risk-status">You are at <b>Second Stage</b> Need to complete It to get Free Recharge Now.</p>
+                    <p id="risk-status">You are at <b>Second Stage</b> Need to complete It to get Free Recharge Now.</n> Share it minimum 5 People</p>
                 </div>
                 <!-- <div class="child">
                     <p id="share-message"><b>Thank you for Participating</b></p>
